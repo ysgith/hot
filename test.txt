@@ -1,3 +1,8 @@
 test.txt
 add 1
 dev branch
+<<<<<<< HEAD
+fix bug
+=======
+在公司开发了一半的功能
+>>>>>>> 514ca3f (公司开发了一半)
